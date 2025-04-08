@@ -1,84 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
-  <diagram name="第 1 页" id="ZRALXxpQEXRXpDjACzYE">
-    <mxGraphModel dx="1562" dy="800" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="第 1 页" id="00Lhq6FhmcQJg8EU94Ph">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yp2a0dyTP8bFTE_0m6Zf-2" value="&lt;div&gt;&lt;b&gt;開場白&lt;/b&gt;&lt;/div&gt;歡迎使用中華航空與音情感辨識機器人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="127" y="28" width="537" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yp2a0dyTP8bFTE_0m6Zf-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.473;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="389.001" y="87.99999999999999" as="sourcePoint" />
-            <mxPoint x="389" y="148.98" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yp2a0dyTP8bFTE_0m6Zf-4" value="&lt;b&gt;使用者&lt;/b&gt;&lt;br&gt;&lt;div&gt;我要查詢桃園到東京(成田)，12月15的航班。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="261" y="151" width="257" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="yp2a0dyTP8bFTE_0m6Zf-5" value="&lt;div&gt;&lt;b&gt;語音客服回應&lt;/b&gt;&lt;/div&gt;12月15&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;桃園到東京(成田)&lt;/span&gt;的航班有三個時段，分別是上午 8 點、下午 2 點和晚上 6 點，請問您要哪一個時段的航班？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="224.5" y="269" width="342" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yp2a0dyTP8bFTE_0m6Zf-6" value="&lt;div&gt;&lt;b&gt;使用者&lt;/b&gt;&lt;/div&gt;我要查下午 2 點的航班。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="112" y="412" width="213" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="yp2a0dyTP8bFTE_0m6Zf-7" value="&lt;div&gt;&lt;b&gt;語音客服回應&lt;/b&gt;&lt;/div&gt;好的，12 月 15 日，桃園飛往東京成田的航班是下午 2 點 35 分起飛，位於桃園機場第二航廈，航班號碼為...。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="55" y="525" width="302" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yp2a0dyTP8bFTE_0m6Zf-8" value="&lt;div&gt;&lt;b&gt;使用者&lt;/b&gt;&lt;/div&gt;我想更改機票" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="470" y="411" width="230" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="yp2a0dyTP8bFTE_0m6Zf-10" value="&lt;div&gt;&lt;b&gt;語音客服回應&lt;/b&gt;&lt;/div&gt;感謝您使用華航語音客服，祝您旅途愉快！謝謝！" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="44" y="733" width="340" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yp2a0dyTP8bFTE_0m6Zf-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.473;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="391.5" y="205" as="sourcePoint" />
-            <mxPoint x="391.499" y="265.98" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yp2a0dyTP8bFTE_0m6Zf-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.473;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="205" y="461.02" as="sourcePoint" />
-            <mxPoint x="204.99900000000002" y="522" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yp2a0dyTP8bFTE_0m6Zf-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="461" as="sourcePoint" />
-            <mxPoint x="590.499" y="512.98" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yp2a0dyTP8bFTE_0m6Zf-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.276;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yp2a0dyTP8bFTE_0m6Zf-5" target="yp2a0dyTP8bFTE_0m6Zf-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="387" y="482" as="sourcePoint" />
-            <mxPoint x="437" y="432" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yp2a0dyTP8bFTE_0m6Zf-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="454" y="329" as="sourcePoint" />
-            <mxPoint x="579" y="409" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yp2a0dyTP8bFTE_0m6Zf-22" value="結束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="145" y="637" width="116" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="yp2a0dyTP8bFTE_0m6Zf-23" value="轉接專人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="538" y="515" width="116" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="yp2a0dyTP8bFTE_0m6Zf-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="205.5" y="587" as="sourcePoint" />
-            <mxPoint x="205.99900000000002" y="638.98" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yp2a0dyTP8bFTE_0m6Zf-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="202.5" y="667" as="sourcePoint" />
-            <mxPoint x="202.5" y="733" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
