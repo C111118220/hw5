@@ -1,9 +1,360 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="00Lhq6FhmcQJg8EU94Ph">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;即時校園服務系統&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="534" y="94" width="220" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-2" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="648" y="187" as="sourcePoint" />
+            <mxPoint x="648" y="137" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-3" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="289" y="244" as="sourcePoint" />
+            <mxPoint x="289" y="182" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-4" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="289" y="182" as="sourcePoint" />
+            <mxPoint x="1020" y="188" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;校區地圖&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="217" y="244" width="146" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="gLd3xhCjaq_d4Ov7IEBU-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="648" y="241" as="sourcePoint" />
+            <mxPoint x="648" y="179" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;其他功能&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="575" y="247" width="146" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;小幫手&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="948" y="249" width="131" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-9" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1019" y="251" as="sourcePoint" />
+            <mxPoint x="1019.5" y="189" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-10" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="648" y="1022" as="sourcePoint" />
+            <mxPoint x="647.5" y="284" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-11" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="648" y="327" as="sourcePoint" />
+            <mxPoint x="688" y="327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;校區交通&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="689" y="307" width="121" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-13" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="706" y="386" as="sourcePoint" />
+            <mxPoint x="706" y="348" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-15" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;校車站牌位置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="746" y="364" width="173" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-17" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;課程內容&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="687" y="411" width="118" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-18" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="708" y="681" as="sourcePoint" />
+            <mxPoint x="708" y="454" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-21" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;篩選條件選項&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="749" y="468" width="187" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-22" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;學年度、學期、學校&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="813" y="524" width="228" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-23" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="706" y="385" as="sourcePoint" />
+            <mxPoint x="746" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-24" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="646" y="430" as="sourcePoint" />
+            <mxPoint x="686" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-25" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="709" y="491" as="sourcePoint" />
+            <mxPoint x="749" y="491" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-26" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="709" y="682" as="sourcePoint" />
+            <mxPoint x="749" y="682" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-28" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;智能查詢&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1059" y="307" width="116" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-29" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="772" y="540" as="sourcePoint" />
+            <mxPoint x="812" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-31" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;常見問題解答&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1061" y="432" width="195" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-32" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="772" y="540" as="sourcePoint" />
+            <mxPoint x="772" y="508" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-33" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="827" y="599" as="sourcePoint" />
+            <mxPoint x="827" y="567" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-34" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="827" y="600" as="sourcePoint" />
+            <mxPoint x="867" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-35" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;條件查詢&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="868" y="581" width="129" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-36" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;查詢結果顯示&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="749" y="662" width="187" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-37" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="773" y="734" as="sourcePoint" />
+            <mxPoint x="773" y="702" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-38" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="773" y="733" as="sourcePoint" />
+            <mxPoint x="813" y="733" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-39" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;課程名稱、授課教師、時間&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="815" y="714" width="323" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-40" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1019" y="450" as="sourcePoint" />
+            <mxPoint x="1019" y="284" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-41" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1016" y="327" as="sourcePoint" />
+            <mxPoint x="1056" y="327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-42" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1019" y="395" as="sourcePoint" />
+            <mxPoint x="1059" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-43" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;查詢教室位置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1061" y="375" width="177" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-44" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1019" y="451" as="sourcePoint" />
+            <mxPoint x="1059" y="451" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-45" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="649" y="829" as="sourcePoint" />
+            <mxPoint x="689" y="829" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-46" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;教室位置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="692" y="805" width="118" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-47" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="711" y="945" as="sourcePoint" />
+            <mxPoint x="711" y="849" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-48" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="711" y="885" as="sourcePoint" />
+            <mxPoint x="751" y="885" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-49" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;校園地圖顯示&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="750" y="864" width="154" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-50" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="944" as="sourcePoint" />
+            <mxPoint x="750" y="944" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-51" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;樓層詳細資訊&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="750" y="923" width="154" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-52" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="647" y="1021" as="sourcePoint" />
+            <mxPoint x="687" y="1021" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-53" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;使用手冊&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="690.5" y="1004" width="118" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-54" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="812" as="sourcePoint" />
+            <mxPoint x="250" y="287" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-55" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="249" y="341" as="sourcePoint" />
+            <mxPoint x="289" y="341" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-56" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;建功校區&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="286" y="318" width="154" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-57" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="308" y="402" as="sourcePoint" />
+            <mxPoint x="308" y="364" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-58" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="307" y="400" as="sourcePoint" />
+            <mxPoint x="347" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-59" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;校園地圖顯示&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="348" y="382" width="154" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-60" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="451.5" as="sourcePoint" />
+            <mxPoint x="290" y="451.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-61" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;燕巢校區&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="292" y="432" width="154" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-62" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="312" y="514" as="sourcePoint" />
+            <mxPoint x="312" y="476" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-63" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="313" y="514" as="sourcePoint" />
+            <mxPoint x="353" y="514" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-64" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;校園地圖顯示&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="352" y="494" width="154" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-65" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="249" y="571" as="sourcePoint" />
+            <mxPoint x="289" y="571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-66" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;楠梓校區&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="290" y="549" width="154" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-67" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="312" y="631" as="sourcePoint" />
+            <mxPoint x="312" y="593" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-68" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="312" y="632" as="sourcePoint" />
+            <mxPoint x="352" y="632" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-69" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;校園地圖顯示&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="352" y="611" width="154" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-70" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="252" y="679" as="sourcePoint" />
+            <mxPoint x="292" y="679" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-71" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;旗津校區&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="294" y="664" width="154" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-72" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="309" y="746" as="sourcePoint" />
+            <mxPoint x="309" y="708" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-73" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="308" y="749" as="sourcePoint" />
+            <mxPoint x="348" y="749" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-74" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;校園地圖顯示&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="348" y="725" width="154" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-75" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="812" as="sourcePoint" />
+            <mxPoint x="290" y="812" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-76" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;第一校區&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="292" y="793" width="154" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-77" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="308" y="875" as="sourcePoint" />
+            <mxPoint x="308" y="837" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-78" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="876" as="sourcePoint" />
+            <mxPoint x="350" y="876" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLd3xhCjaq_d4Ov7IEBU-79" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;校園地圖顯示&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="350" y="851" width="154" height="44" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
